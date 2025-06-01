@@ -1,0 +1,35 @@
+C:\Users\is\Documents\zz\Library A\Library A\obj\Debug\net8.0-windows\Library A.csproj.AssemblyReference.cache
+C:\Users\is\Documents\zz\Library A\Library A\obj\Debug\net8.0-windows\Library_A.Form1.resources
+C:\Users\is\Documents\zz\Library A\Library A\obj\Debug\net8.0-windows\Library_A.Form2.resources
+C:\Users\is\Documents\zz\Library A\Library A\obj\Debug\net8.0-windows\Library A.csproj.GenerateResource.cache
+C:\Users\is\Documents\zz\Library A\Library A\obj\Debug\net8.0-windows\Library A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is\Documents\zz\Library A\Library A\obj\Debug\net8.0-windows\Library A.AssemblyInfoInputs.cache
+C:\Users\is\Documents\zz\Library A\Library A\obj\Debug\net8.0-windows\Library A.AssemblyInfo.cs
+C:\Users\is\Documents\zz\Library A\Library A\obj\Debug\net8.0-windows\Library A.csproj.CoreCompileInputs.cache
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\Library A.exe
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\Library A.deps.json
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\Library A.runtimeconfig.json
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\Library A.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\Library A.pdb
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\is\Documents\zz\Library A\Library A\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\is\Documents\zz\Library A\Library A\obj\Debug\net8.0-windows\Library A.csproj.Up2Date
+C:\Users\is\Documents\zz\Library A\Library A\obj\Debug\net8.0-windows\Library A.dll
+C:\Users\is\Documents\zz\Library A\Library A\obj\Debug\net8.0-windows\refint\Library A.dll
+C:\Users\is\Documents\zz\Library A\Library A\obj\Debug\net8.0-windows\Library A.pdb
+C:\Users\is\Documents\zz\Library A\Library A\obj\Debug\net8.0-windows\Library A.genruntimeconfig.cache
+C:\Users\is\Documents\zz\Library A\Library A\obj\Debug\net8.0-windows\ref\Library A.dll
