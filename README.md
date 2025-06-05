@@ -1,5 +1,5 @@
-# 📚 MyLibrary – Desktop Application with Database Integration
-## 🧑‍💻 Author
+#  MyLibrary – Desktop Application with Database Integration
+## Author
 **[Yonas Tilahun]**  
 **[DBU 1501577]** 
 **Year**: 3rd Year Information Systems   
@@ -9,40 +9,40 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 **MyLibrary** is a Windows Forms desktop application developed in C# using the .NET framework. The application helps a small library manage its books and borrower records, implementing key event-driven programming principles and database integration using ADO.NET.
 
 ---
 
-## 🎯 Features
+## Features
 
-### 🔐 Login System
+### Login System
 - Secure login screen using a `Users` table.
 - Redirects to the main application on successful login.
 - Displays error on invalid credentials.
 
-### 📚 Books Management
+### Books Management
 - View all books in a `DataGridView`.
 - Add, edit, and delete books.
 - Input validation for title, author, year, and available copies.
 
-### 👤 Borrowers Management
+### Borrowers Management
 - Manage library members: view, add, edit, and delete borrowers.
 - Input validation for name, email, and phone number.
 
-### 🔄 Issue/Return System
+### Issue/Return System
 - Issue a book to a borrower (decrements `AvailableCopies`).
 - Return a book (increments `AvailableCopies`).
 - Tracks issued books in an `IssuedBooks` table with `IssueDate` and `DueDate`.
 
-### 📊 Bonus Features
+### Bonus Features
 - Filter books by author or year range.
 - Generate a report of overdue books (`DueDate < Today`).
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language:** C#
 - **Framework:** .NET (WinForms)
@@ -52,7 +52,7 @@
 
 ---
 
-## 💽 Database Setup
+## Database Setup
 
 1. Ensure SQLite is installed or your chosen database engine is ready.
 2. Run the `database.sql` script located in `/db/` to create and seed all required tables:
@@ -63,15 +63,15 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### ✅ Prerequisites
+### Prerequisites
 
 - Visual Studio 2022 or later
 - .NET Desktop Development workload
 - SQLite NuGet packages (if using SQLite)
 
-### 🔧Build and Run
+### Build and Run
 
 1. Clone this repository:
 
@@ -86,7 +86,7 @@
 
 ---
 
-## 🔑 Default Login Credentials
+##  Default Login Credentials
 Username: yoni
 Password: yoni20
 
@@ -94,7 +94,7 @@ These credentials are seeded in the `Users` table. You can modify them in the `d
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 All major screens are captured and available in the `/docs/screenshots/` folder.
 
@@ -110,7 +110,7 @@ All major screens are captured and available in the `/docs/screenshots/` folder.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 /MyLibrary
 ├── /bin
@@ -134,7 +134,7 @@ All major screens are captured and available in the `/docs/screenshots/` folder.
 
 ---
 
-## ✅ Validation & Error Handling
+## Validation & Error Handling
 
 - All inputs validated (e.g., non-empty fields, numeric ranges, email format).
 - Exception handling on all DB operations using `try-catch`.
